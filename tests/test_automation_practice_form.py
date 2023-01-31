@@ -6,6 +6,7 @@ import os
 from selene import command
 import tests
 import allure
+from utils import attach
 
 
 @allure.tag('web')
